@@ -1,0 +1,10 @@
+{
+  "name": "tinycrunch",
+  "title": "tinycrunch",
+  "size": "960x640",
+  "id": "com.example.tinycrunch",
+  "version": "0.1.0",
+  "minTinyjsVersion": "0.42.2",
+  "url": "https://www.crunchyroll.com",
+  "api": { "disable": ["*"] }
+}
